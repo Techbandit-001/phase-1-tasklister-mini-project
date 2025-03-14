@@ -1,7 +1,5 @@
-
-
-document.addEventListener("DOMContentLoaded", () => {
-  // your code here
+document.addEventListener ("DOMContentLoaded", () => {
+  //your code here
 });
 
 let myForm = document.getElementById("create-task-form");
